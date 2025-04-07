@@ -1,1 +1,7 @@
-Bisection Method Algorithm Using Python
+Root Finding Methods Algorithms in Python
+
+1. BISECTION METHOD
+2. REGULAR-FALSI METHOD
+3. SECANT METHOD
+4. NEWTON-RAPHSON METHOD
+5. COMPARATIVE GRAPH FOR ALL METHODS
